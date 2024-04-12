@@ -1,0 +1,1 @@
+This project aims to build the hangman game in CLI with a save and load feature through serialization and deserialization.
